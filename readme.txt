@@ -1,1 +1,0 @@
-This is a project where I create my portfolio.
