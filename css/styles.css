@@ -37,6 +37,7 @@ header {
 .profile img {
   padding: 2rem 0 0 0;
   width: 550px;
+  height: 500px;
   margin: auto;
   max-width: 80%;
   display: block;
@@ -45,10 +46,9 @@ header {
 .link:hover {
   border-bottom: black 2px solid;
 }
-.link:active {
-  color: white;
+.active-link {
+  font-weight: bold;
 }
-
 .hero-text {
   text-align: center;
   padding: 1rem;
