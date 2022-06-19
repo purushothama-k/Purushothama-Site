@@ -20,6 +20,7 @@ header {
 .logo {
   text-align: left;
   font-size: 1.5rem;
+  font-weight: bold;
 }
 .nav-items .nav-item {
   list-style: none;
@@ -118,6 +119,7 @@ span {
 .footer {
   margin-top: 3rem;
   background-color: var(--primary-color);
+  border-radius: 0 50px 0 0;
 }
 .footer-header h3 {
   padding: 2rem;
@@ -134,4 +136,10 @@ span {
 .list-items-inline ul {
   text-align: center;
   padding-bottom: 2rem;
+}
+
+/* project page */
+
+.title {
+  text-align: center;
 }
